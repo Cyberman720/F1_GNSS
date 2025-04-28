@@ -1,0 +1,26 @@
+It is absolutely critical that the two ground lines going to the tab on the Voltage Regluator be cut on this iteration.
+
+The purpose of this design was to make something cheeper and more reasonable for the prototype stage.
+
+
+
+
+the 4pin socket layouts.
+
+left:
+  power, power, ground ground
+center:
+  ground, sdata, clock, CS
+top right:
+  ANt_Flag, PGM, Power, Power
+lower Right:
+  Ground, Clockout, I0, I1
+bottom Right:
+  Ground, LD, Q0, Q1
+
+
+Swich config:
+  top- on
+  bottom - off
+
+
