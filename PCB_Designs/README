@@ -2,3 +2,9 @@ This is the collection of my PCB designs for making the RF front end.
 
 If you wish to make your own, PLEASE use the last "Mark" as there are problems in earlier ones.
 
+All PCBs were made using Easy EDA, and with that in mind you may wish to also do it that way.
+I tried to make sure to use as many "basic" parts as practical. this was a cost cutting measure.
+When designing this, each non basic part costs $5 to put on the reel. this means duplicate parts are best.
+
+These boards are all based arround the MAX2769
+With each board existing to demodulate the high frequency GNSS information and output it in a useable form.
