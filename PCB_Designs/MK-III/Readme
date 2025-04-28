@@ -1,3 +1,7 @@
 This design corrects many of the issues I had with MK-II
 It is also designed as a prototype board.
 This one is covered in indication LEDS and matched switches so you can see what rails are doing what.
+
+This board does NOT need the late stage LNAs as there are digital signals comming out, these don't need the.
+I have further improved the design, however this one did not make it futher than this drawing stage.
+
