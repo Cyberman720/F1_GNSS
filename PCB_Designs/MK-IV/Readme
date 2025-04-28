@@ -1,0 +1,7 @@
+The mark iV design is a building off of the work done on MK-III.
+This iteration brings the board closer to the EVAL kit and uses a lot of the lessons from:
+https://github.com/psas/gps-rf-board/blob/master/
+
+I have modified my RF front end to match theirs as frankly RF is witchcraft.
+Then I have improved my layout of the MAX2769 to include counters as present in the EVAL and this kit.
+
