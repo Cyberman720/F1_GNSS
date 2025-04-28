@@ -1,3 +1,21 @@
 I have been using an ARDUINO R4 wifi for my actual front end.
 This board enables me to read the I/Q values off my board and do things with them.
+To power the board, plug into serial and plug the RF into 5v an ground (as the voltage regluator will bring it to a stable 3.3v)
 
+
+I have the LED matrix programmed as such:
+
+0,
+1,
+2,
+3, LD
+4, I0 
+5, I1
+6, Q0
+7, Q1
+
+each of these bars will go from one end to the other.
+one light means the  channel is "LOW"
+Multiple means the channel is "High"
+
+From here, the board outputs over serial.
