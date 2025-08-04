@@ -5,3 +5,5 @@ https://github.com/psas/gps-rf-board/blob/master/
 I have modified my RF front end to match theirs as frankly RF is witchcraft.
 Then I have improved my layout of the MAX2769 to include counters as present in the EVAL and this kit.
 
+MK-IV has passed the impedance calibration test.
+This means that we have a greenlight to go to build for a batch of these units as th design is sound.
