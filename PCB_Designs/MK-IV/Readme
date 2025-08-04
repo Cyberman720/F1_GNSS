@@ -7,3 +7,5 @@ Then I have improved my layout of the MAX2769 to include counters as present in 
 
 MK-IV has passed the impedance calibration test.
 This means that we have a greenlight to go to build for a batch of these units as th design is sound.
+
+These designs are built for JLCPCB's JLC04161H-7628 stack up, this gives 50ohms between the signal layer and the ground plane.
