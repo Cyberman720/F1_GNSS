@@ -1,0 +1,11 @@
+A folder of the weird and wonderful deadends that come about when you are learning.
+
+an arduino cannot sample the signal comming out of the F1-RF side at anywhere near the speed required for a precise mesurement 2mhz+
+the signal comming out of the RF side is a simple one which is a digital wave of high or low sampled at 16mhz, but the actual bitrate is 1mhz. 
+Nyquest would therefore mean i need a device at at least 2mhz to acheve a reasonable sample.
+
+-arduino has been retired because of this.
+-direct to Rasberry Pi has been retired because of linux interrupts maing this unreliable.
+-PI Pico is un elegant, but is what I have to use
+-FPGA will be the ultimate solution, though will require much more work and a new revision.
+
