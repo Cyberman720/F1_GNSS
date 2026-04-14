@@ -1,1 +1,3 @@
 This is the repo for the C++ iteration of the F1-GNSS code
+
+This is the firmware running on the Pi Pico, where the signal is captured by the PIO on the pico, then moved via DMA into a buffer where one core can do the corrilation, then the other core will be able to do the lat lon ect
